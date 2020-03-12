@@ -1,0 +1,43 @@
+img {
+    float:left;
+    clear:left;
+    margin: 10px;
+    height: 150px;
+}
+
+.eName {
+    float:left;
+    margin: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.title {
+    font-weight: bold;
+    margin:12px;
+    padding:10px;
+    font-size: 16px;
+    top: 10px;
+    position: relative
+}
+
+div.employee {
+    border: 2px solid black;
+    height: 200px;
+    border-radius: 15px;
+    width: 500px;
+    box-shadow: 10px 10px #C5C5C5;
+    overflow:
+}
+
+p {
+    position:relative;
+    top: 5px;
+    left: 5px;
+}
+
+.department {
+    display:block;
+    position:relative;
+    top:10px;
+}
